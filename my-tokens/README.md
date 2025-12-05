@@ -130,16 +130,17 @@ These confirm correct validation and behavior.
 
 ## Project Structure
 ```
-contracts/
-   MyToken.sol
-README.md
-screenshots/
-   compilation.png
-   deployment.png
-   token-info.png
-   transfer-test.png
-   events.png
-   edge-case-revert.png
+my-tokens
+   contracts/
+      MyToken.sol
+   README.md
+   screenshots/
+      compilation.png
+      deployment.png
+      token-info.png
+      transfer-test.png
+      events.png
+      edge-case-revert.png
 ```
 
 ---
